@@ -1,1 +1,2 @@
 # Constructur_Hangman
+This program uses the JS.node interface to play the game Hangman.  A word is randomly selected, and user is presented with a series of blank spaces representing the letters in the word.  The user guesses one letter at a time, and if he/she guesses correctly, the letters will be filled in all the applicable blanks.  If the user manages to fill all the blanks before his/her guesses are expended, that means victory.  If guesses are expended first, that means loss.  Eitherway the game restarts, ie a new word is chosen.
